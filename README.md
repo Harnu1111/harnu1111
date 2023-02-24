@@ -15,9 +15,12 @@
 </li>
  <li>
   🚀 You can connect with me on:
-  
-   Twitter: @harnu1111
-LinkedIn: @harnu1111
-   whatsapp: +2348144137817
+  <ul>
+    <li> Twitter: @harnu1111</li>
+     <li>LinkedIn: @harnu1111</li>
+   <li>whatsapp: +2348144137817</li>
+
+   
+    </ul>
   </li>
  
