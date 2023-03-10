@@ -1,7 +1,7 @@
-
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Anuoluwapo</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJiMTNkMzM0ZDZkZDcyMGRlMjFkZjJmNDQyOGMwYzBkYjQ1NTVlNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJiMTNkMzM0ZDZkZDcyMGRlMjFkZjJmNDQyOGMwYzBkYjQ1NTVlNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/harnu1111" target="blank"><img src="https://img.shields.io/twitter/follow/harnu1111?logo=twitter&style=for-the-badge" alt="harnu1111" /></a> </p>
 
